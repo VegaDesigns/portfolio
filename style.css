@@ -13,6 +13,10 @@ body {
   color: var(--text-color);
 }
 
+a {
+  color: var(--accent-color);
+}
+
 body.dark-mode {
   --bg-color: #1e1e1e;
   --text-color: #f4f4f9;
