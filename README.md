@@ -1,6 +1,8 @@
 # Cristian Vega Portfolio
 
-This is my personal web developer portfolio built using HTML and CSS. It also highlights my work with JavaScript and React as described in the About Me section. More projects and enhancements coming soon.
+This is my personal web developer portfolio built using HTML and CSS. It highlights my work with JavaScript and React as described in the About Me section. More projects and enhancements coming soon.
+
+The site now includes a simple navigation bar, a dark mode toggle and responsive project cards for a cleaner layout.
 
 ## Live Site
 
