@@ -13,6 +13,23 @@ body {
   color: var(--text-color);
 }
 
+
+.section-title {
+  font-size: 1.75rem;
+  margin-bottom: 0.5rem;
+}
+
+a {
+  color: var(--accent-color);
+  outline: none;
+}
+
+a:focus,
+button:focus {
+  outline: 2px dashed var(--accent-color);
+  outline-offset: 2px;
+}
+
 body.dark-mode {
   --bg-color: #1e1e1e;
   --text-color: #f4f4f9;
